@@ -1,0 +1,13 @@
+clientesws\package-info.class
+clientesws\InsertarEstudiante.class
+clientesws\InitResponse.class
+clientesws\EstudiantesWS_Service.class
+com\mycompany\clientesoapestudiantes\PruebaCliente.class
+clientesws\DestroyResponse.class
+clientesws\EstudiantesWS.class
+clientesws\InsertarEstudianteResponse.class
+clientesws\ListarEstudiantes.class
+clientesws\ListarEstudiantesResponse.class
+clientesws\Init.class
+clientesws\Destroy.class
+clientesws\ObjectFactory.class
